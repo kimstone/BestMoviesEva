@@ -1,0 +1,16 @@
+#####################################################
+#
+# ref: https://git-scm.com/docs/gitignore
+#####################################################
+
+# Django #
+.env
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+
+# Backup Files #
+*.bak
